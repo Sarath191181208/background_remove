@@ -54,9 +54,9 @@ Run the project Locally
 
 - python `Make sure to add to path`
 - pygame `pip3 install pygame`
+- open cv `pip3 install opencv-python`
+- cv zone `pip3 install cvzone`
 - tkinter `default`
-- pyinstaller `pip3 install pyinstaller` this is to create an exe alternatively you can use auto-py-to-exe `pip install auto-py-to-exe`
-- colorama `pip3 install colorama`
 
 ## Authors
 
